@@ -1,1 +1,1 @@
-# project
+Followed all steps in Assignment06.
